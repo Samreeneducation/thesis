@@ -17,3 +17,4 @@ KNeighborsClassifier
 but i have omit the bag classifier, random forest classifier and decision tree as they were taking longer to repond despite of waiting for hours 
 view this comit link to see algos https://github.com/Samreeneducation/thesis/blob/master/algorithmsresult.ipynb
 and https://github.com/Samreeneducation/thesis/blob/master/cyberbullying_detection.ipynb this note pie chat is not visible outside colab  so i have attached images
+Note training data file cant be uploaded due to its size
